@@ -1,0 +1,27 @@
+{
+  "name": "prettySocial",
+  "version": "1.1.0",
+  "description": "Custom share buttons for Pinterest, Twitter, Facebook and Google Plus.",
+  "authors": [
+    "Sonny T <hi@sonnyt.com>"
+  ],
+  "main": [
+    "jquery.prettySocial.min.js"
+  ],
+  "keywords": [
+    "twitter",
+    "pinterest",
+    "facebook",
+    "googleplus",
+    "share",
+    "social"
+    "jquery",
+    "social share",
+    "social media"
+  ],
+  "license": "http://ionden.com/a/licence-en.html",
+  "private": false,
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
