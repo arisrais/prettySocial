@@ -46,6 +46,13 @@
                         width: 600,
                         height: 600
                     }
+                },
+                whatsapp: {
+                    url: '"whatsapp://send?text={{title}}',
+                    popup: {
+                        width: 600,
+                        height: 600
+                    }
                 }
             },
 
